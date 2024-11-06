@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 Я iOS-разработчик. Учусь в вузе ПГУ на четвёртом курсе бакалавриата на направлении "Приборостроение, информационных технологий и систем".
 - Изучил UIKit
 - Работал с CoreData
-- Знаком с ахитектурными патернами MVC, MVP, MVVM на каждом из них писал проекты
+- Знаком с ахитектурными патернами MVC, MVP, MVVM VIPER на каждом из них писал проекты
 - Знаю как писать unit тесты
 - Использую менеджеры зависимостей (CocoaPods, SPM)
 - Зная методологии разработки Agile и Waterfall
 
 ## ⚙️ Навыки:
 - UIKit/SwiftUI
-- AutoLayout
-- MVC/MVP/MVVM
+- AutoLayout/snapkit
+- MVC/MVP/MVVM+Coordinator/VIPER
 - CoreData
 - User Defaults/ Keychain
 - SPM/CocoaPods
-- URLSession
+- URLSession/Alamofire/Moya
 - UI/Unit Tests
 - Notification Center/ KVO
 - HTTP/REST
